@@ -1,0 +1,34 @@
+Bootcamp DIO Database Experience
+Prepare-se para a jornada! 
+    Primeiro curso
+        Conheça as oportunidades da DIO - 100% CONCLUIDO
+        Seja protagonista neste Bootcamp - 100% CONCLUIDO
+        Introdução ao Desenvolvimento Moderno de Software - 100% CONCLUIDO
+        Introdução ao Git e ao GitHub - 100% CONCLUIDO
+        Criando seu primeiro repositório no github para compartilhar seu progresso - 0% em progresso
+            Mentoria(Live)
+                Database Experience | Aula inaugural - 22/08/22 as 19h
+
+Banco de Dados SQL
+    Cursos
+        Contextualização do cenário na área de banco de dados 
+        Explorando a abordagem de SGBDs
+        Overview sobre modelagem de dados
+        Arquitetura de Banco de Dados
+        Fundamentos de modelagem e projeto de banco de dados
+        Explorando o modelo ER - Entidade relacionamento
+        Modelegem de dados com EER - Enhanced entity relationship
+        Refinando um projeto conceitual de banco de dados - E-Commerce
+        Contruindo um esquema conceitual do zero
+        Modelo relacional e mapeamento ER/relacional
+        Primeiros passos com SQL
+        Explorando Queries com SQL
+        Criando Queries com funções e cláusulas de agrupamentos 
+        Agrupando registros e tabelas com join statement
+        Constuindo seu primeiro projeto lógico de banco de dados
+        Contrua um projeto lógico de banco de dados do zero
+
+Banco de dados NoSQL
+    Cursos
+        Introdução ao MongoDB e banco de dados NoSQL
+        O papel dos bancos de dados SQL e noSQL na engenharia de dados
